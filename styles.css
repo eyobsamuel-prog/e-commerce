@@ -218,7 +218,7 @@ button {
 /* Hero Styles */
 .hero {
     height: 80vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('background.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('backgroun.jpeg');
     background-size: cover;
     background-position: center;
     display: flex;
@@ -713,4 +713,5 @@ button {
     .cart-sidebar {
         max-width: 100%;
     }
+
 }
